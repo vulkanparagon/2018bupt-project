@@ -1,0 +1,115 @@
+/* start.wxss */
+
+.btn0{
+
+  height:100rpx;
+
+  top: 45%;
+
+  width: 60%;
+
+  color: white;
+
+  background-color: #eff302;
+
+}
+
+
+
+.btn1{
+
+height: 88rpx;
+
+  top: 60%;
+
+  width: 60%;
+
+  color: white;
+
+  background-color: #e0f714;
+
+}
+
+.btn2{
+
+height: 88rpx;
+
+  top: 60%;
+
+  width: 60%;
+
+  color: white;
+
+  background-color: #f7f30a;
+
+}
+
+
+
+ .text0{
+
+  color: #888888;
+
+  font-family:PingFangSC-Regular;
+
+  font-size:20px;
+
+  top: 55%;
+
+  left: 17%;
+
+  position: absolute
+
+  }
+
+
+
+  
+
+  .text2{
+
+  color: #888888;
+
+  font-family:PingFangSC-Regular;
+
+  font-size:12px;
+
+  top: 55%;
+
+  left: 17%;
+
+  position: absolute
+
+  }
+
+  .text4{
+
+  color: #888888;
+
+  font-family:PingFangSC-Regular;
+
+  font-size:12px;
+
+  top: 55%;
+
+  left: 17%;
+
+  position: absolute
+
+  }
+
+.text3{
+
+  color: #888888;
+
+  font-family:PingFangSC-Regular;
+
+  font-size:12px;
+
+  top: 55%;
+
+  left: 17%;
+
+  position: absolute
+
+  }

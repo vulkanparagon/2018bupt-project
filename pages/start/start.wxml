@@ -1,0 +1,22 @@
+
+<!--start.wxml-->
+
+
+
+<button class="btn0" bindtap="validate">鱼鱼的生活状态</button>
+
+<view class="text0"> 光照，温度，湿度等......    </view>
+
+<button id="btn1" 
+
+bindtap="send1">点击喂食50g</button>
+
+<text id="text1">鱼是铁，饭是缸</text>
+
+
+
+<button id="btn2" 
+
+bindtap="send2">点击加热5℃</button>
+
+<text id="text2">让鱼鱼感受到你的热爱     </text>
